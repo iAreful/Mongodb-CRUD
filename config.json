@@ -1,0 +1,5 @@
+{
+	"MONGO_USER": "<+MongoDB Acount Email+/>",
+	"MONGO_PASSWORD": "password",
+	"MONGO_CLUSTER_NAME": "your cluster names"
+}
