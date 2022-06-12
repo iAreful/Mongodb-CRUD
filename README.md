@@ -4,6 +4,10 @@
 ![Screenshot_18](https://user-images.githubusercontent.com/15269933/173021704-f5bb0dcc-42b9-4e43-9cdc-7db48a82507c.png)
 ![Screenshot_19](https://user-images.githubusercontent.com/15269933/173021805-1246c90e-8d88-4fc0-be6a-4a3ff47545a5.png)
 
+## To-do:
+- [x] Publish
+- [x] Brainstorming 
+- [ ] etc
 
 
 
